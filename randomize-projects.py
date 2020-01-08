@@ -7,4 +7,7 @@ content = open("index.html").read()
 
 tree = ET.parse("index.html")
 root = tree.getroot()
+# print(root)
 print(root)
+p = tree.find("body")
+print(p)
