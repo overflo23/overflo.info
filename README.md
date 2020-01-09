@@ -1,6 +1,6 @@
 # Adding and updating images
 
-Source images should have 6:4 aspect ratio, with at least 1024px horizontally.
+Source images should have 4x3 aspect ratio (eg. 1024x768), with at least 1024px horizontally.
 
 All images in `images/projects/` are automatically generated from `images_raw/projects` with
 
