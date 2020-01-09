@@ -13,12 +13,14 @@ filename as argument to update only that one:
 
     ./generate-thumbnails.sh <filename>
 
+
 # Randomize project order
 
     pip3 install beautifulsoup4
     ./randomize-projects.py
 
 This will generate a file called `index-random.html`, which is copied from `index.html` only with randomized projects.
+
 
 # Projects to add
 
@@ -27,3 +29,9 @@ This will generate a file called `index-random.html`, which is copied from `inde
 * Krippe
 * MagicShifter
 * ... (add to this list)
+
+
+# Possible homepage improvements
+
+* Once images are in same aspect ratio, we can set the images to fit into each box, rather than just showing the upper left corner
+* Gallery with multiple images inside a single project popup
