@@ -1,7 +1,6 @@
+# Adding and updating images
 
-pip install beautifulsoup4
-
-# Generate scaled images from raw files:
+Source images should have 6:4 aspect ratio, with at least 1024px horizontally.
 
 All images in `images/projects/` are automatically generated from `images_raw/projects` with
 
@@ -9,7 +8,17 @@ All images in `images/projects/` are automatically generated from `images_raw/pr
 
 You need to have ImageMagick installed for the `mogify` command. Install on OSX with `brew install imagemagick`
 
-After generating, you might still want to run the images through ImageOptim.
+If you want to add or update one specific image only, update it in the `images_raw` folder and then just add the
+filename as argument to update only that one:
+
+    ./generate-thumbnails.sh <filename>
+
+# Randomize project order
+
+    pip3 install beautifulsoup4
+    ./randomize-projects.py
+
+This will generate a file called `index-random.html`, which is copied from `index.html` only with randomized projects.
 
 # Projects to add
 
