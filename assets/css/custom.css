@@ -1,0 +1,12 @@
+article.thumb h2 a {
+    border-bottom: none;
+}
+
+article.thumb h2 i {
+    display: none;
+}
+
+.caption a {
+    color: white;
+    border-bottom: none;
+}
