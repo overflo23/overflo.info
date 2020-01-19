@@ -1,40 +1,9 @@
-# Adding and updating images
+#overflo.info
 
-Source images should have one of these ratios and minimum resoltions:
-
-* 4x3 -- 1024 x 768 px
-* 16x10 -- 1280 x 800 px
-
-All images in `images/projects/` are automatically generated from `images_raw/projects` with
-
-    ./generate-thumbnails.sh
-
-You need to have ImageMagick installed for the `mogify` command. Install on OSX with `brew install imagemagick`
-
-If you want to add or update one specific image only, update it in the `images_raw` folder and then just add the
-filename as argument to update only that one:
-
-    ./generate-thumbnails.sh <filename>
+Content of my homepage at https://overflo.info
 
 
-# Randomize project order
-
-    pip3 install beautifulsoup4
-    ./randomize-projects.py
-
-This will generate a file called `index-random.html`, which is copied from `index.html` only with randomized projects.
+Built by chris.<br/>
+Thank you! :*
 
 
-# Projects to add
-
-* Plasma phone ([link](https://twitter.com/ganda1f/status/946720073665990656))
-* Hackerstacker
-* Krippe
-* MagicShifter
-* ... (add to this list)
-
-
-# Possible homepage improvements
-
-* Once images are in same aspect ratio, we can set the images to fit into each box, rather than just showing the upper left corner
-* Gallery with multiple images inside a single project popup
