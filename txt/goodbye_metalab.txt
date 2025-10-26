@@ -1,3 +1,6 @@
+Dieser Text war ursprünglich eine Email an die Mailinglisten ca eine Woche nach dem Sozialplenum.
+
+
 
 
 TL;DR: 
@@ -12,13 +15,13 @@ What happen?
 Ich habe im Sommer den liteplacer abgeholt und nach Deutschland gebracht.
 Das war mit jeder Menge Drama verbunden und ich hatte seither Zeit darüber nachzudenken, zu reflektieren und gute Gespräche zu führen.
 
-Der konkrete Anlass war ein Fehlverhalten meinerseits, nämlich dass ich an einem ÖGS Tag unerlaubt das metalab betreten habe.
+Der konkrete Anlass war ein Fehlverhalten meinerseits, nämlich dass ich an einem ÖGS-Tag unerlaubt das metalab betreten habe.
 Klingt eigentlich ein bisschen dumm wenn man das so liest, ist aber tatsächlich der Kern des Problems.
 
 Am Sozialplenum habe ich verstanden dass es nicht darum ging dass ich prinzipiell gestört hätte,
 sondern darum dass die Usergroup keine Ausnahmen machen will, weil sie Angst haben dass dadurch das Konzept Exklusivtag kaputt geht.
 Ich kann dieser Argumentation folgen, finde aber das Konzept der Exklusivnutzung, so wie es umgesetzt wird trotzdem extrem problematisch.
-Der Anspruch: "Du bist hier nicht willkommen" leitet sich daraus ab und das finde ich falsch, auch wenn es aus guten Gründen passiert. [0]
+Der Anspruch: "Du bist hier nicht willkommen" leitet sich daraus ab und das finde ich falsch, auch wenn es aus guten Gründen passiert.
 
 
 ------
@@ -27,19 +30,19 @@ What happen next?
 
 Ich habe von Juni bis Oktober meine Gedanken sortiert und eine Menge Erfahrungen aufgeschrieben, geordnet und mir ein Bild meiner eigenen Emotionen gemacht.
 Das war heilsam und gut und ich hatte Gelegenheit meinen Zorn zu überwinden.
-Tatsächlich, war diese Erfahrung rückwirkend betrachtet keine Schlechte und hat mich als Mensch in meiner Entwicklung weitergebracht.
+Tatsächlich, war diese Erfahrung rückwirkend betrachtet keine schlechte und hat mich als Mensch in meiner Entwicklung weitergebracht.
 
 ;
 
-Vor ein paar Wochen kam Anna Vasof [1] ins metalab, an einem ÖGS-Tag.
+Vor ein paar Wochen kam Anna Vasof [0] ins metalab, an einem ÖGS-Tag [1].
 Sie ist seit knapp 15 Jahren im metalab aktiv, hat ihren Schlüssel schon wirklich lange und kam an besagtem Tag ins metalab, um den Lasercutter zu nutzen.
-Dies war bereits das zweite mal dass Sie einen Exklusivtag der ÖGS-Gruppe "gestört" hat und dann kam es auch noch zu Diskussionen am Gang warum Sie nicht rein darf usw.
+Dies war bereits das zweite mal dass sie einen Exklusivtag der ÖGS-Gruppe "gestört" hat und dann kam es auch noch zu Diskussionen am Gang warum sie nicht rein darf usw.
 Das war den ÖGS Leuten zu viel und sie haben einen Platzverweis ausgesprochen.
 Als Anna dann nicht schnell genug ging, wurde sie von einem Teilnehmer an der Schulter gepackt und rausgeschoben.
 
-Am folgenden Sozialplenum waren sich Alle Anwesenden einig dass das nicht geht und es wurde dieses Verhalten auch nicht verteidigt oder gerechtfertigt.
+Am folgenden Sozialplenum waren sich alle Anwesenden einig, dass das nicht geht und es wurde dieses Verhalten auch nicht verteidigt oder gerechtfertigt.
 
-Anders aber, als Anna am selben Tag ihres Rauswurfs eine Email verfasste an intern@ und Ihre Erfahrungen teile.
+Anders aber, als Anna am selben Tag ihres Rauswurfs eine E-mail verfasste an intern@ und ihre Erfahrungen teilte.
 15 Minuten später kam eine Antwortmail in der Dinge standen wie:
 
 
@@ -47,36 +50,40 @@ Anders aber, als Anna am selben Tag ihres Rauswurfs eine Email verfasste an inte
 "Schubsen und körperlicher Angriff ist nicht passiert, dafür gibt es Augenzeugen, das ist auch eine freche Schilderung." 
 "Thanks für den erneuten ableistischen Eingriff"
 
-Und das wars dann für mich und meine abgeklärte Akzeptanz der Ereignisse.
+Und das war es dann für mich und meine abgeklärte Akzeptanz der Ereignisse.
 
 Auf einmal war meine Wut wieder da und mein Zorn und mein Hass auf diese selbstgerechte und gemeine Kommunikation.
-Vermutlich wurden die Emails davor auch mit Hass und Wut verfasst, genau darum gehts hier.
+Vermutlich wurden die Emails davor auch mit Hass und Wut verfasst, genau darum geht es hier.
 
 
 --
 
 Ich traf Anna ein paar Tage später auf einen Kaffee und wir haben darüber gesprochen wie es ihr geht, 
 wie sie die Situation wahrnimmt, was sie sich wünscht,  usw.
-Ich habe verstanden das Anna sich (zu Recht!!) mishandelt fühlt von diesen Menschen und eine Entschuldigung angebracht wäre.
-Ein Ziel wäre für Sie wenn Sie gehört und verstanden wird und sie Ihren Schlüssel wieder erhält.
-Dieser wurde Anna kurz nach dem Vesuch am ÖGS Tag gesperrt bis auf Weiteres.
+Ich habe verstanden dass Anna sich (zu Recht!!) misshandelt fühlt von diesen Menschen und eine Entschuldigung angebracht wäre.
+Ein Ziel wäre für sie wenn sie gehört und verstanden wird und sie Ihren Schlüssel wieder erhält.
+Ihr Schüssel wurde kurz nach dem Besuch am ÖGS-Tag gesperrt bis auf Weiteres.
 
 Begründung:
     Anna hat einen ÖGS-Tag wiederholt gestört und ein keymember hat die Pflicht die Regeln des metalab zu befolgen und umzusetzen.
     Diese Einschätzung wurde am Sozialplenum noch erweitert um die Maxime: 
     "Keymeber sein macht zur Botschafter*In des metalabs. 
-     Diese sollten die Communitywerte teilen und nach aussen tragen können, oder zumindest nicht nur an Exklusivtagen fernbleiben aus Angst davor rausgeschmissen zu werden." (luto)
+    Diese sollten die Communitywerte teilen und nach außen tragen können, oder zumindest nicht nur an Exklusivtagen fernbleiben aus Angst davor rausgeschmissen zu werden." (Redebeitrag luto)
  
 Das finde ich mehr als problematisch.
+Mir reicht es wenn jemand der immer nur am Vormittag da ist um was 3D zu drucken oder zu lasern die Exklusivtageregelung einhält.
+Aus welchen Gründen auch immer.
 
 
 
 
 
-Der Plan 
---------
 
-Nachdem Treffen mit Anna, legte ich am kommenden Sozialplenum mit Dolmetschung den ersten Tagesordnungspunkt fest.
+
+1 Plan 
+======
+
+Nach dem Treffen mit Anna, legte ich am kommenden Sozialplenum mit Dolmetschung den ersten Tagesordnungspunkt fest.
 
 ***
 Wiederholtes schweres Fehlverhalten einiger Menschen die sich mit der ÖGS-Usergroup identifizieren. (overflo & Anna Vasof)
@@ -93,25 +100,25 @@ Das war ein unwürdiges Schauspiel sondergleichen.
 Ich war mir also bewusst dass diese "Sozialplena" den Charakter eines Tribunals haben können.
 
 Einige Tage vor dem Tribunal wurde der folgender Tagesordnungspunkt eingebracht.
-
+<wiki auf>
 ***
 Verstöße gegen den CoC durch ein Member. (rainbowveggie)
 Ich möchte Verstöße eines Members gegen die Regeln des Metalab aufzeigen und über Konsequenzen sprechen. 
 ***
-
+<wiki zu>
 
 Kurz darauf erhielt ich eine Chatanfrage von qchen, welcher die Moderation leiten wollte.
-Qchen erkundigte sich nach meiner Powerpoint-Präsentation, die ich nicht mit ihm im vorraus teilen wollte.
-Ich vertröstete ihn auf später da ich auch noch nicht damit fertig war und erst mit Anna sprechen wollte.
-Das hat ihm glaube ich nicht so gut gefallen und Anna bat mich ob es OK ist ihr Statement vorzuziehen.
+Qchen erkundigte sich nach meiner Powerpoint-Präsentation, die ich nicht im voraus teilen wollte.
+Ich vertröstete Qchen auf später da ich auch noch nicht damit fertig war und erst mit Anna sprechen wollte.
+Das hat Qchen glaube ich nicht so gut gefallen und Anna bat mich ob es OK ist ihr Statement vorzuziehen.
 Natürlich war ich damit einverstanden da es an diesem Tag um SIE ging.
 
-Im Zuge des Chats liess Qchen mich Wissen dass es in dem neuen Tagesordnungspunkt "Verstöße gegen den CoC durch ein Member" um mich geht.
-Die Frage was es damit auf sich hätte, wurde nicht gestellt und auch nicht von qchen erläutert.
-Am Sozialplemnum wäre der richtige Rahmen um zu reden.
+Im Zuge des Chats ließ Qchen mich wissen, dass es in dem neuen Tagesordnungspunkt "Verstöße gegen den CoC durch ein Member" um mich geht.
+Die Frage was es damit auf sich hätte, wurde nicht gestellt und auch nicht von Qchen erläutert.
+Am Sozialplenum wäre der richtige Rahmen um zu reden.
 
-rainboveggie hat mich nicht im Vorfeld kontaktiert sondern direkt den Punkt eingebracht da Sie (dann im persönlichen Gespräch) meinte, 
-es beträfe ja auch Alle und ging nicht nur Sie und mich.
+rainboveggie hat mich nicht im Vorfeld kontaktiert sondern direkt den Punkt eingebracht da sie (dann im persönlichen Gespräch) meinte, 
+es beträfe ja auch alle und ging nicht nur sie und mich.
 Valid Point, well noted.
 
 ;
@@ -119,21 +126,22 @@ Valid Point, well noted.
 Folgende Szenarien hielt ich nun für möglich:
 
 1.
-Wir reden miteinander und finden eine Lösung die für Alle Beteiligten passt.
-(Optimales Ergebniss aber meiner bisherigen Erfahrung mit diesen Sozialtribunalen nach, EXTREM unwahrscheinlich.)
+Wir reden miteinander und finden eine Lösung die für alle Beteiligten passt.
+(Optimales Ergebni aber meiner bisherigen Erfahrung mit diesen Sozialtribunalen nach, EXTREM unwahrscheinlich.)
 
 
 2.
 Wir reden miteinander, aber die Differenzen sind unüberwindbar.
-Anne verliert Ihren Schlüssel.
-Da ein CoC Verstoss gegen mich eingebracht wurde, verliere wahrscheinlich auch ich meinen Key, vielleicht auch meine membership.
+Anna verliert ihren Schlüssel.
+Da ein CoC-Verstoss gegen mich eingebracht wurde, verliere wahrscheinlich auch ich meinen Key, vielleicht gibts auch ein Hausverbot.
 (Nicht gut, aber auch nicht das Schlimmste was passieren könnte.)
 
 3.
-Wir reden NICHT miteinander, es wird die AMuer gemacht und meine Präsentation verhindert.
+Wir reden NICHT miteinander, es wird die Mauer gemacht und meine Präsentation verhindert.
 Anna wird einfach fertig gemacht von einer Meute.
-Schlüsselentzug, eventuell auch mein Rauswurf. Grosses Drama.
+Großes Drama. Eventuell Hausverbot für mich. Enttäuschung bei allen Beteiligten.
 (Viel wahrscheinlicher, worst outcome)
+
 
 
 
@@ -143,21 +151,22 @@ Mein Plan war für mich recht schnell klar.
 
 Ich muss mit Resultat 3 (Rauswurf) kalkulieren, jedes andere Ergebnis ist zumindest ein Teilerfolg.
 
-In diesem potentiellen Suizidkommando, ist es von Vorteil Emotional nicht mehr zu attached zu sein.
+In diesem potentiellen Suizidkommando, ist es von Vorteil emotional nicht mehr zu attached zu sein.
 Hätte ich darum gekämpft meinen Schlüssel behalten zu dürfen, wäre diese Strategie vermutlich gescheitert.
 
-Ich entschied mich dazu eine Powerpointpräsentation zu erstellen und eine Rede dafür zurechtzulegen.
-Damit sollte der Fokus von Anna weg, mehr auf die Metaebene gehoben werden um nicht zu viel über konkrete Vorkommnisse, 
+Ich entschied mich dazu eine Powerpoint-Präsentation [2] zu erstellen und eine Rede dafür zurechtzulegen.
+Damit sollte der Fokus von Anna weg, mehr auf die Metaebene gehoben werden, um nicht zu viel über konkrete Vorkommnisse, 
 sondern die Rahmenbedingungen zu diskutieren.
 
 Die Folien enthielten ursprünglich ca 10 wichtige Punkte, allerdings war mir klar dass das VIEL zu viel ist um on-Topic zu bleiben.
-Ich habe meine Statements auf 3-5 Punkte reduziert, zwei mal im Vorfeld vorgetragen, Feedback eingearbeitet und (schlechte) Lösungsvorschläge skizziert.
+Ich habe meine Statements auf 3-5 Punkte reduziert, zweimal im Vorfeld vorgetragen, Feedback eingearbeitet und (schlechte) Lösungsvorschläge skizziert.
 
-Das Wichtigste war, mir extrem unangenehme Ereignisse anzusprechen die unabhängig vom konkreten Auslöser passiert sind.
+Das Wichtigste war für mich, mir extrem unangenehme Ereignisse anzusprechen die unabhängig vom konkreten Anlass passiert sind.
+
 Hohn, Spott, Zorn, Misstrauen und in letzter Konsequenz Gewalt und Trauma.
 Das ist erfahrungsgemäss ein sehr schmaler Grat und die "Täter-Opfer-Umkehr"-Keule sitzt am Sozialplenum eher locker.
 
-Ich habe Anna die Präsi vorab geschickt und ich habe Annas ext auch vor dem Sozialplenum erhalten udn gelesen.
+Ich habe Anna die Präsi vorab geschickt und ich habe Annas Statement auch vor dem Sozialplenum erhalten und gelesen.
 
 
 
@@ -168,16 +177,16 @@ Das Tribunal
 
 _Intro_
 
-Am Abend des 19.10.2025 traf ich im metalab ein und sah in viele angespannter Gesichter.
+Am Abend des 19.10.2025 traf ich im metalab ein und sah in viele angespannte Gesichter.
 Qchen eröffnete die Anmoderation,
 
-Ich wies drauf hin, dass ich persönlich einen Moderator wichtig finde, 
-und dass das für mich aber bedeutet, dass der Moderator durchsetzt dass all Leute gehört werden und ein 
+Ich wiess darauf hin, dass ich persönlich einen Moderator wichtig finde 
+und dass das für mich aber bedeutet, dass der Moderator durchsetzt dass alle Leute gehört werden und ein 
 Dialog möglich ist.
 Dazu sollte er jedenfalls möglichst neutral agieren.
 
-Qchen wies mich im darauf hin dass es nicht "der Moderator" heisst und hat mir kurz deren Pronomen erläutert.
-(Ob _deren_ Pronomen nun stimmt weiss ich an dieser Stelle wirklich nicht, Sorry falls nicht.)
+Qchen wies mich darauf hin dass es nicht "der Moderator" heißt und hat mir kurz deren Pronomen erläutert.
+(Ob _deren_ Pronomen nun stimmt weiß ich an dieser Stelle wirklich nicht, Sorry falls nicht.)
 
 Jedenfalls wurde ich dann darüber in Kenntnis gesetzt, dass "die Moderation" als Anrede erwünscht ist.
 Dem bin ich freilich gerne nachgekommen.
@@ -187,65 +196,69 @@ Dass dabei unter den Tisch fiel dass es mir darum geht dass die Moderation neutr
 
 
 
-_Part 1_
-Lasst uns reden!
+_Part 1_   -  Lasst uns reden!
 
-Wir eröffnen die Gesprächsrunde damit dass Anna ihr 2-Seitiges Statement vorbringt.
-Sie klagt über das Unrecht dass Ihr widerfahren ist und es stellt sich die Frage im Feedback, 
-ob irgendjemand eigentlich die Gewalterfahrung von Anna in Frage stellt oder gar gutheisst.
+Wir eröffnen die Gesprächsrunde damit dass Anna ihr 2-seitiges Statement auf Englisch vorbringt.
+Sie klagt über das Unrecht dass ihr widerfahren ist und es stellt sich die Frage im Feedback, 
+ob irgendjemand eigentlich die Gewalterfahrung von Anna in Frage stellt oder gar gut heisst?
 Niemand der Anwesenden fand die erfahrene Gewalt in Ordnung.
-Allerdings wurde aus der ÖGS-Ecke eingebracht, dass die Situation von Ihnen anders wahrgenommen wurde.
+Allerdings wurde aus der ÖGS-Ecke eingebracht, dass die geschilderte Situation von ihnen anders wahrgenommen wurde.
 
-Anna wurde laut dieser Darstellung nach ca 20 Minuten Diskussion im Gang darauf hingewiesen dass man ihr ein Platzverbot aussprach und Sie bitte gehen soll.
-Weil Sie scheinbar nicht schnell genug den Gang verliess, hat eine der Anwesenden Personen (männlich ca 1.90m)
+Anna wurde laut dieser Darstellung nach ca 20 Minuten Diskussion im Gang darauf hingewiesen dass man ihr ein Platzverbot aussprach und sie bitte gehen soll.
+Weil sie scheinbar nicht schnell genug den Gang verließ, hat eine der Anwesenden Personen (männlich ca 1.90m)
 Anna an der Schulter berührt und rausgeschoben.
 Die extrem traumatisierenden Eindrücke die Anna da geschildert hat, wurden offensichtlich nicht zu 100% von den Zuhörenden so verstanden.
-Anna erzählte von Ihrer Angst und der Scham und dem Geruch der Achsel von dem Kerl der Sie da mit Gewalt rausschob.
+
+Anna erzählte von ihrer Angst und der Scham und dem Geruch der Achsel von dem Kerl der sie da mit Gewalt rausschob.
 Sie bedankte sich auch bei Karoline dafür, eingeschritten zu sein und die Person darauf hingewiesen zu haben, dass Berühren nicht geht.
 
 Die Einsicht dass Anna Schmerzen zugefügt wurden, auch wenn diese "nur" psychischer Natur sind,
-war jedenfalls meiner Einschätzung nach auf ÖGS Seite nicht ausreichend vorhanden.
+war jedenfalls meiner Einschätzung nach auf ÖGS-Seite nicht ausreichend vorhanden.
 
 
 
-_Part 2_ 
-Feedback Runde an Anna nach Ihrem Statement.
+_Part 2_   -   Feedback-Runde an Anna nach ihrem Statement.
 
-An dieser Stelle möchte ich daran erinnern das _spätestens_ genau jetzt meine Slides kommen sollten.
-Eigentlich wollte ich Anna den gewüschten Vortritt lassen, dann meine Präsentation durchziehen udn DANN in die Feedbackrunde starten.
+An dieser Stelle möchte ich daran erinnern dass _allerspätestens_ genau jetzt meine Slides kommen sollten.
+
+Eigentlich wollte ich Anna den gewünschten Vortritt lassen, dann meine Präsentation durchziehen und DANN in die Feedbackrunde starten.
 
 Das wurde allerdings unterbunden und wir begaben uns auf Wunsch der Moderation direkt an Annas Statement in die Feedbackrunde.
 
-Die ersten Wortmeldungen fand ich in Ordnung und produktiv bis eine Member*in zu Wort kam die von ihren traumatischen Erfahrungen mit 
-der TERF-Community erzählte und sich durch Annas Wortwahl und Selbstdarstellung getriggert fühlt.
-Ich bezweifle nicht dass das alles genau so empfunden wurde, aber es handelt sich um eine klare Themenverfehlung und Ablenkung von den wesentlichen Punkten die Anna aufgezeigt hatte.
-Annas traumatische Erfahrungen.
+Die ersten Wortmeldungen fand ich in Ordnung und produktiv bis eine Member*in [3] zu Wort kam die von ihren traumatischen Erfahrungen mit der TERF-Community erzählte und sich durch Annas Wortwahl und Selbstdarstellung getriggert fühlt.
+Ich bezweifle nicht dass das alles genau so empfunden wurde, aber es handelte sich um eine klare Themenverfehlung und Ablenkung von den wesentlichen Punkten die Anna aufgezeigt hatte.
+Annas traumatische Erfahrungen. 
+Um die ging es an dieser Stelle.
+Es war IHR Punkt, IHR Tribunal.
 
 Von da an ging die Stimmung erwartungsgemäss bergab.
 Anna war in einer Verteidigungsposition, Ihr gegenüber eine Meute verletzter Menschen.
 
 Ich habe da noch kurz zugehört und dann die Moderation dazu aufgerufen dass an dieser Stelle zu unterbinden, da ich genau jetzt meine Folien zeigen sollte.
+
 Es kam zu viel Widerspruch, ich würde mich über die Moderation hinwegsetzen war zu hören und in dem Moment war es gut dass da einige Leute sassen die darauf pochten mir zu erlauben die Folien zu präsentieren.
+
 Einen Teil der Leute habe ich Wochen davor gebeten sich Zeit zu nehmen falls sie mich unterstützen wollen und ich habe sie wissen lassen, dass es eventuell der letzte Besuch von mir im metalab sein könnte.
 
-Danke an Alle die sich Zeit genommen haben, Ihr wart mir eine WICHTIGE Stütze.
+Danke an alle die sich Zeit genommen haben, Ihr wart mir eine WICHTIGE Stütze. :*
 
 
 _Part 3_
-Die Präsentation - Da Sakrileg
+Die Präsentation - 1 Sakrileg
 
-Die Rahmenbdingungen für das was ich zu sagen habe, hätten kaum schlechter sein können, aber ich war mir bewusst dass es kein Zurück gibt sobald die Stimmung komplett gegen Anna gekippt war.
+Die Rahmenbedingungen für das was ich zu sagen habe, hätten kaum schlechter sein können, aber ich war mir bewusst dass es kein Zurück gibt sobald die Stimmung komplett gegen Anna gekippt war.
 
 Ich startete die Präsentation und war VIEL zu aufgeregt.
-Was ich als ca 15 minütigen Dialog gestaltet hatte, wurde zu einer Predigt.
+Was ich als ca 15 minütigen Dialog zur Einstimmung in das Sozialplenum gestaltet hatte, wurde zu einer Predigt.
 Meine Worte zu schnell, meine Emotionen viel zu heiss gelaufen.
-Obwohl ich auf gefühlt jeder dritten Folie "EINATMEN, AUSMATEN" vermerkt hatte, fiel es mir schwer die Beherrschung zu bewahren.
+Obwohl ich auf jeder dritten Folie "EINATMEN, AUSMATEN" vermerkt hatte, fiel es mir schwer die Beherrschung zu bewahren.
 Das Feedback der Leute war nicht freundlich und mein Tonfall wurde immer frustrierter.
-Das war EXTREM unangenehm.
+Das war EXTREM unangenehm für beide Seiten.
 
 Sonsti übernahm das drücken der Leertaste um die nächste Folie anzuzeigen, da die Anwesenden darauf bestanden, 
 dass ich nicht vorne stehe, sondern im Kreis sitze.
 Dieses "Abdrehen der Kontrolle" war für mich erniedrigend und einer der wesentlichen Schmerzpunkte des Abends.
+Bei den letzten Folien glaube ich eine grosse Unruhe und Buh-Rufe wahrgenommen zu haben.
 
 Sonsti, blieb aber auch cool als die Stimmung gegen mich zu kippen drohte und zeigte die nächste Folie wenn ich ihn darum bat.
 Danke dafür, das war nicht selbstverständlich in dieser Situation.
@@ -254,25 +267,28 @@ Meine Folien sind nun online im 1:1 dessen was ich an diesem Tag gezeigt habe. [
 
 Einige dieser Worte würde ich so nicht noch einmal verwenden und viele meiner Gedanken und Vorschläge wurden an diesem Abend gehört und diskutiert und haben sich dadurch grundlegend verändert.
 
-Ich habe die Folien noch einmal überarbeitet und die gelernten Erkenntnisse einfliessen lassen. [3]
+Ich werde die Folien noch einmal überarbeitet und die gelernten Erkenntnisse ein fließen lassen. [TODO]
 Denn VIELES von dem was ich sagen wollte, wurde auch gesagt und gehört und verstanden und das ist wichtig.
 
 
-__part 4__
-Feedbackrunde an Anna und overflo
-Der interessanteste Teil des Abends.
+__part 4__ - Feedbackrunde an Anna und overflo ;  Der interessanteste Teil des Abends.
+
 
 Zuerst wurden die Leute von der Moderation zu Wort gelassen die VOR meiner Präsentation eigentlich auf Annas Statement antworten wollten.
 
 Und wie durch ein Wunder gab es eine ganze Reihe an Feedback das auf einmal EINFüHLSAMER war als die Meldungen VOR meiner Präsentation.
-Leute bekundeten mehrmals dass Sie die Gewalterfahrung die Anna gemacht hat NICHT in Frage stellen und das auch fuchtbar finden.
+Leute bekundeten mehrmals dass sie die Gewalterfahrung die Anna gemacht hat NICHT in Frage stellen und das auch furchtbar finden.
 Plötzlich ging es darum was Anna fühlt.
 Es ging auch darum was die Anwesenden fühlten und meine Folien hatten offenbar etwas im Diskurs verschoben.
+
 Wie ich finde zum Besseren.
 
 Nach einigen Antworten/Fragen und noch mehr Antworten ging es dann darum was Leute mir an Feedback geben wollen.
 Das war durchaus gemischt, aber respektvoll und wertschätzend.
 Das hat mich ehrlich überrascht.
+Die Folien sind teilweise absichtlich provokant und überzeichnet gestaltet.
+Ich wollte Emotionen transportieren, noch dazu solche die Anna und mir weh tun.
+
 
 eesti schrieb einige kluge Fragen in sein Buch und zwei davon waren: 
  - Wo sind wir jetzt? 
@@ -280,14 +296,15 @@ eesti schrieb einige kluge Fragen in sein Buch und zwei davon waren:
 
 Eine der KERNfragen meiner Präsentation.
 Ich habe darauf geantwortet dass ich heute sehr viel gelernt habe.
-Für mich komplett neuen Ansichten und Einschätzungen trafen auf Verständniss meinerseits.
+
+Für mich komplett neuen Ansichten und Einschätzungen trafen auf Verständnis meinerseits.
 Ich habe das Gefühl jede einzelne Person gehört und WIRKLICH verstanden zu haben.
 
-Das ist 1 MASSIVE WIN.
+Das ist EIN MASSIVE WIN. (ich vermisse meinen oneup-flo)
 
-Ich verstehe warum "Reden wir halt nix am ÖGS-Tag" keine Lösung sondern ein Teil des Problems ist. [4]
-Ich versteh nun warum die Leute keine Ausnahmen beim betreten machen wollen.
-(Sie haben Angst dass das dann normal wird und der Charakter des Exklusivtages dadurch verloren geht.)
+Ich verstehe warum "Reden wir halt nix am ÖGS-Tag" keine Lösung sondern ein Teil des Problems ist. (Siehe Original Slides)
+Ich verstehe nun, warum die Leute keine Ausnahmen beim betreten machen wollen.
+Sie haben Angst dass das dann normal wird und der Charakter des Exklusivtages dadurch verloren geht.
 Ich kann diese Ängste gut nachempfinden.
 
 Ich bin immer noch der Meinung dass das Konzept Exklusivtage falsch ist und dadurch die Idee dass jemand NICHT willkommen ist,
@@ -296,31 +313,30 @@ Doch ich kann nun besser verstehen wie es zu den unangenehmen Konsequenzen für 
 
 
 
-__Part 5__
-Pause #2
+__Part 5__  - Pause #2
 
-In dieser Pause tausche ich mich vor dem metalab mit Leuten aus und höre Ihre Einschätzungen.
+In dieser Pause tausche ich mich vor dem metalab mit Leuten aus und höre ihre Einschätzungen.
 Diese sind total unterschiedlich.
-Die Einen freuen sich, die Anderen finden Alles ziemlich furchtbar, wieder Andere steigern sich rein in Ihre eigenen Beispiele was da alles falsch läuft.
+Die einen freuen sich, die anderen finden alles ziemlich furchtbar, wieder andere steigern sich rein in ihre eigenen Beispiele was da alles falsch läuft.
 Kurz: Die Stimmung ist aufgewühlt.
 
 Nach der Pause geht die Feedbackrunde an mich weiter und ich weise darauf hin dass ich auch bald mal Schluss machen möchte und heim ins Bett muss, es ist kurz vor 9.
 
 Ich erkläre ausführlich (noch einmal) dass ICH im Juni am Sozialplenum einen Fehler gemacht habe.
 Ich erkläre auch dass ich verstehe was das Problem ist und mir wird von den Anwesenden ein Vorschlag unterbreitet.
-Ich könne einen Keymember Workshop besuchen (der ohnehin ansteht) und einen ÖGS-Sensibilisierungsworkshop mit Franz besuchen.
-Ich finde die Vorschläge beide gut, zeige ehrliches Interesse und damit scheinen Alle einverstanden.
+Ich könnte einen Keymember Workshop besuchen (der ohnehin ansteht) und einen ÖGS-Sensibilisierungsworkshop mit Franz besuchen.
+Ich finde die Vorschläge beide gut, zeige ehrliches Interesse und damit scheinen alle einverstanden.
 
 Dann kam die Person zu Wort die ich am ÖGS-Tag durch mein Verhalten wohl am meisten traumatisiert habe.
-Sie (die Person (nicht die Pronomen)) erklärt noch einmal kurz worum es ihr geht und ich höre der Dolmetschung gespannt 
+Sie (die Person (nicht die Pronomen)) [3] erklärt noch einmal kurz worum es ihr geht und ich höre der Dolmetschung gespannt 
 zu.
 Am Ende des Betrags sagt sie (vermeintlich) "Ich habe bis heute keine persönliche Entschuldigung erhalten".
-Da die Person direkt neben mir sitzt, drehe ich mich zu Ihr und sage:
+Da die Person direkt neben mir sitzt, drehe ich mich zu ihr und sage:
 
 "Es tut mir aufrichtig Leid.
 Ich wollte mich bei dir schon lange entschuldigen, aber wir waren seither nicht zeitgleich vor Ort und mir wurde gesagt du möchtest keinen Kontakt.
 Daher habe ich irgendwann aufgehört zu versuchen dich zu erreichen.
-Ich versteh warum passiert ist, was passiert ist.
+Ich verstehe warum passiert ist, was passiert ist.
 Ich habe DICH in diese Rolle des Cops gedrängt auf die DU keinen Bock hattest und ich schwöre dir, dass so etwas nie wieder passieren wird."
 
 Kurz darauf gestikuliert sie und die Dolmetschung lässt mich wissen dass es ein Übersetzungsfehler war und sie KEINE persönliche Entschuldigung von mir wollte.
@@ -330,20 +346,19 @@ Naja gut, besser sich vor versammelter Mannschaft zum Brot machen, als eine Ents
 
 
 
-__Part 6 __
-Pause #3
+__Part 6 __  - Pause #3
 
 Ich stehe in der Pause neben rainbowveggie und rede mit andern Leuten.
 Als unser Gespräch zu Ende geht, drehe ich mich zu ihr und spreche sie direkt an.
 
-"Hej, ich hab gehört du bringst einen CoC Verstoss gegen mich vor.
-Mir wurde bisher nicht gesagt worum es eigentlich geht, ist es für dich ok, wenn wir beide kurz reden bevors weitergeht?"
+"Hej, ich hab gehört du bringst einen CoC-Verstoss gegen mich vor.
+Mir wurde bisher nicht gesagt worum es eigentlich geht, ist es für dich ok, wenn wir beide kurz reden bevor es weitergeht?"
 
 Rundherum die komplette gehörlose Crew die an dem Abend da ist.
 Rainbowveggie spricht Lautsprache (und ÖGS) und hat ein funktionierendes Gehör, was unsere Kommunikation wesentlich vereinfacht.
 
-Sie erklärt mir, dass ihr aufgefallen ist, dass ich in meinen Folien ableistische Sprache verwende und Unwarheiten repliziere.
-zB der Vorschlag einfach nicht zu reden am ÖGS Tag wäre genau sowas, da an diesen Tagen sehr wohl gesprochen wird.
+Sie erklärt mir, dass ihr aufgefallen ist, dass ich in meinen Folien ableistische Sprache verwende und Unwahrheiten repliziere.
+zB der Vorschlag "Einfach nicht zu reden" am ÖGS-Tag wäre genau sowas, da an diesen Tagen sehr wohl gesprochen wird.
 Ich begreife das SOFORT.
 Natürlich, was für eine dumme Idee meinerseits.
 
@@ -352,40 +367,41 @@ Das wurde als Drohung aufgefasst.
 Das tut mir auch ehrlich leid, das war von mir nicht beabsichtigt und ist für mich jetzt auch komplett nachvollziehbar.
 
 Aber es geht auch darum dass ich vor einigen Wochen aus dem Chat austrat nachdem mir ein Keymember 
-"behindertenfeindlichkeit" attestierte, weil ich die Forderung stellte, dass sich die ÖGS-Grupppe selbst um die Dolmetschung kümmern sollte.
-Das sehe ich auch heute so, die Leute sind ja nicht geistig behindert und können durchaus Emails schreiben und damit core@ entlasten.
+"Behindertenfeindlichkeit" attestierte, weil ich die Forderung stellte, dass sich die ÖGS-Grupppe selbst um die Dolmetschung kümmern sollte.
+Das sehe ich auch heute so.
+Die Leute sind ja nicht geistig behindert und können durchaus Emails schreiben und damit core@ entlasten.
 
-Wir waren uns in der Pause einig und so wurde der vorletzte Punkt "CoC Verstoss" schnell und schmerzlos erledigt.
+Wir waren uns in der Pause einig und so wurde der vorletzte Punkt "CoC-Verstoss" schnell und schmerzlos erledigt.
 Ein Keymemberworkshop und ein ÖGS-Sensibilisierungsworkshop waren angedacht, ich hatte den Eindruck wir verstehen einander jetzt VIEL besser als VOR dem Sozialplenum.
 
 Reden hilft.
-Vor allem wenn man sich davor überlegt WORüBER man reden sollte.
+Vor allem wenn man sich davor überlegt WORüBER man reden MUSS und nicht worüber man reden WILL.
 
 
 
 
-__Part 7 __
-Finale
+__Part 7 __ - Grande Finale
 
-Anna hat als letzten Tagesordnungspunkt eingebracht Ihren Schlüssel wieder zu erhalten.
+Anna hat als letzten Tagesordnungspunkt eingebracht ihren Schlüssel wieder zu erhalten.
 
 Sie erklärt noch einmal dass sie den Tag nicht mehr stören wird und einsieht warum das ein Problem war.
-Sie sagt Sie würde einen Keymemberworkshop besuchen und auch einen Sensibilisierungsworkshop, allerdings freiwillig und nicht als Strafmasznahme.
+Sie sagt sie würde einen Keymemberworkshop besuchen, (der ohnehin wieder nötig wäre) und auch einen Sensibilisierungsworkshop, allerdings freiwillig und nicht als Strafmaßnahme.
 
 Sie erklärt wie wichtig der Key für sie ist, da sie meistens am Vormittag vorbeikommt um etwas zu lasern und dann wieder geht.
 Dass ihr bei Schlüsselentzug auch der Zugang zum metalab entzogen wird.
-Es gibt Stimmen die darauf hinweisen dass Sie ja auch ohne Key am Abend vorbeikommen kann..
 
-Das ist ableistisch, weil sie 2 Sätze davor GENAU darauf hingewiesen hat dass sie genau das eben NICHT KANN.
+Es gibt Stimmen die darauf hinweisen dass sie ja auch ohne Key am Abend vorbeikommen kann..
+Das ist ableistisch, weil sie zwei Sätze davor GENAU darauf hingewiesen hat dass sie das eben NICHT KANN.
+An der Stelle war ich dann wieder recht grantig weil offensichtlich nicht zugehört oder nicht verstanden wurde was Anna gerade erklärt hatte.
 
 Anna wird rausgebeten damit die Runde unter sich besprechen kann, wie sie weiter vorgehen wollen.
 
 Dieses Vorgehen finde ich EXTREM problematisch.
-Wenn ihr etwas sagen wollt dass Ihr Anna nicht sagen wollt, sagt es einfach nicht.
+Wenn ihr etwas sagen wollt dass ihr Anna nicht sagen wollt, sagt es einfach nicht.
 Dieses hinausschicken ist degradierend und grauslich.
 
 Einige Wortmeldungen sind sehr inklusiv und weisen darauf hin dass Anna gesagt hat den Tag nicht mehr stören zu wollen 
-und mit den Konsequenzen, die auch mir nahegelgt wurden, zufrieden ist.
+und mit den Konsequenzen, die auch mir nahe gelgt wurden, zufrieden ist.
 
 Qchen merkt kurz an dass bereits _3_ Vetostimmen reichen um einen Schlüssel nicht wieder auszustellen.
 Qchen merkt weiter an, dass die Diskussion darüber also auch nicht ewig dauern muss.
@@ -395,26 +411,26 @@ Ich denk mir: "Was hat DICH eigentlich so runiniert?"
 Wir einigen uns darauf abzustimmen ob Anna einen Keymemberworkshop besucht und danach ihren Schlüssel wieder bekommt.
 Es wird hier angemerkt dass eine Keymembership mehr ist als nur ein Schlüssel.
 Keymember sein ist Verantwortung gegenüber dem Space.
-Man vertritt als Keymember das metalab nach aussen und sorgt dafür dass die Communityregeln eingehalten werden.
+Man vertritt als Keymember das metalab nach außen und sorgt dafür, dass die Communityregeln eingehalten werden.
 
 Es wird abgestimmt.
 Von 25 Leuten stimmen 11 DAGEGEN Anna einen Schlüssel auszustellen.
 
 Anna kommt wieder.
-Die Moderation teil Ihr die Entscheidung mit.
+Die Moderation teilt ihr die Entscheidung mit.
 
-Manche Leute erklären dass es für Sie eine Vertrauenssache ist und dass sie Anna nicht (mehr) vertrauen.
-Es wird Ihr gesagt dass sie zwar nicht rausfliegt, aber ein Schlüssel frühestens am nächsten Sozialplenum beantragt werden kann, 
-nachdem Sie den Keymemberworkshop besucht hat.
+Manche Leute erklären dass es für sie eine Vertrauenssache ist und dass sie Anna nicht (mehr) vertrauen.
+Es wird ihr gesagt dass sie zwar nicht rausfliegt, aber ein Schlüssel frühestens am nächsten Sozialplenum beantragt werden kann, 
+nachdem sie den Keymemberworkshop besucht hat.
 
 Ich sehe Anna an, dass es ihr sehr schlecht geht.
 Ich höre die Worte der Leute und fühle den Schmerz der in Anna dadurch hervorgerufen wird.
 
 Sie ist immer schon da im metalab.
 Sie ist eine richtig coole Person mit den besten Ideen.
-Es gab nie ersthafte Probleme mit ihr ausser "unangebrachte Diskussionen am ÖGS-Tag".
+Es gab nie ersthafte Probleme mit ihr außer "unangebrachte Diskussionen am ÖGS-Tag".
 
-Und jetzt schmeisst sie dieses Tribunal raus.
+Und jetzt schmeißt sie dieses Tribunal raus.
 
 Einatmen.
 Ausatmen.
@@ -423,7 +439,7 @@ Einatmen.
 Es reicht.
 Ich sehe wie in Anna etwas kaputt geht und in diesem Moment geht es nicht nur in Anna kaputt.
 Auch in mir spüre ich dass, das Vertrauen in meine Leute gebrochen ist.
-Ich sehe dass mein Plan Emapthie, Mitgefühl und Nachsicht in den Vordergrund zu stellen, gescheitert ist.
+Ich sehe dass mein Plan Empathie, Mitgefühl und Nachsicht in den Vordergrund zu stellen, gescheitert ist.
 Mein Tribe hat sich dafür entschieden klare Kante und Konsequenzen zu liefern.
 
 
@@ -435,7 +451,7 @@ Ich gehe zu ripper und sage den Leuten in der Runde, dass ich sehr enttäuscht b
 Sie haben den Test nicht bestanden.
 Es ist eine Schande was hier, an diesem Abend passiert ist und ich schäme mich für dieses Tribunal.
 
-Ich kann diese Wertegemeinschaft weder vertreten, noch nach Aussen tragen.
+Ich kann diese Wertegemeinschaft weder vertreten, noch diese Beschlüsse tragen.
 
 Ich kann nur mehr gehen und euch alles Gute wünschen.
 
@@ -447,12 +463,14 @@ Werdet INKLUSIVER.
 Vielleicht lest ihr das in 10 Jahren noch einmal mit anderen Augen und könnt dann verstehen, was ihr getan habt.
 
 
-Pathos: Ist das erste Glied geschmiedet, sind wir Alle in Ketten gelegt.
+Pathos: Ist das erste Glied geschmiedet, sind wir alle in Ketten gelegt.
 
 --------------
 
-Curtains fall
-=============
+
+
+Curtains fall - Post mortem
+===========================
 
 
 
@@ -469,44 +487,47 @@ Während ich manche Leute im metalab-Umfeld sehr gerne habe, gibt es auch genug 
 
 Wir waren einmal ein Anarcho-Underground Ort an dem VIELE Meinungen aufeinander getroffen sind und man hat miteinander diskutiert 
 und damit den eigenen Horizont erweitert.
-Da gabs auch Meinungen die heute einfach GARNICHT angehört würden, unter anderem weil ihr diese Farce einer Hausordnung / CoC beschlossen habt.
+Da gab es auch Meinungen die heute einfach GARNICHT angehört würden, unter anderem weil ihr diese Farce einer Hausordnung / CoC beschlossen habt.
 Das war keine gute Idee und ist das Fundament der autoritären Auswüchse von heute.
 
 --
 
-Das Asozialplenum hat Phantasus ausgeschlossen, der meiner Erfahrung nach zwar oft ein bissi seltsam agiert, aber ein wirklich guter und bemühter Mensch ist.
+Das Asozialplenum hat Phantasus ausgeschlossen, der meiner Erfahrung nach zwar oft ein bisserl eigen agiert, aber ein wirklich guter und bemühter Mensch ist.
 Seither leidet er massiv.
 
 Soviel zu der tollen Inklusion die sich der Verein auf seine Fahnen schreibt.
 
-Hier ist Jede*r**s willkommen  [*]
-[*] Solange er/sie/es mitte zwanzig ist, bunte Haare hat, rolling release Pronomen, Teil eines pansexuellen Polycules ist und mindestens 3 unterschiedliche Persönlichkeiten beherbergt, wovon mindestes eine zwingend Katze oder Fuchs sein muss.
-
+<s>
+Hier ist [[✖Jede*r**s✖]] willkommen  [*]
+[*] Solange er/sie/es Mitte zwanzig ist, bunte Haare hat, rolling release Pronomen, Teil eines pansexuellen Polycules ist und mindestens 3 unterschiedliche Persönlichkeiten beherbergt, wovon mindestens eine zwingend Katze oder Fuchs sein muss.
+</s>
 
 --
 
 
-Mir ist bewusst dass ich an besagtem ÖGS Tag im Juni hätte fragen sollen statt einfach reingehen und winken.. 
+Mir ist bewusst dass ich an besagtem ÖGS-Tag im Juni hätte fragen sollen statt einfach reingehen und winken.. 
+Aber wenn Ihr lest was die Ergebnisse der Bildungsarbeitgruppe sind, dürft ihr euch nicht wundern wenn man sich 3 mal überlegt ob man mit euch spricht oder liber still und leise die Regeln bricht (oder es zumindest versucht).
 Das daraus resultierende DRAMA, hätte tatsächlich auch nicht stattfinden müssen.
 
 Die starren Regeln sind es, die Leute vor Ort dazu nötigen diese Regeln dann auch zu verteidigen.
 Natürlich fühlt sich die Gruppe angegriffen wenn jemand die starren Regeln bricht.
 Das liegt zum Teil an mir und zum Teil daran, dass es diese extrem dumm formulierte Regelung überhaupt so niedergeschrieben wurde.
 
-Im Anschluss an meinen Fehltritt im Juni, wurde mir von einem Beteiligten erklärt: 
+Im Anschluss an meinen Fehltritt im Sommer, wurde mir von einem Beteiligten erklärt: 
 Wenn ich einen Redebedarf reklamiere, welcher von MIR ausgeht sei das nicht angebracht. 
 Jede*r hat das Recht Kommunikation abzulehnen.
+
 Konsequenz: Ich konnte mich erst am Sozialplenum bei der direkt betroffenen Person entschuldigen 
-und das auch nur wegen einem Übersetzungsfehler! 
+und das auch nur wegen einem Übersetzungsfehler! (oh the irony)
 
 
-Mit diesem Kalauer schliesse ich meine Geschichte vom Verein metalab, den ich mit aufgebaut und getragen habe.
+Mit diesem Kalauer schließe ich meine Geschichte vom Verein metalab, den ich mit aufgebaut und getragen habe.
 Dem Verein der so viele Dinge zum Positiven verändert hat.
 Der Verein in dem starke Freundschaften und Bünde entstanden.
-Der Verein der eine Utopie war und so wie alle Utopien von vorne herein zum scheitern verurteilt war.
+Der Verein der eine Utopie war und so wie alle Utopien vom Anfang an zum scheitern verurteilt war.
 Zumindest scheint es in der Retrospektive so.
 
-Ich würde trotzdem noch einmal genau das Gleiche aufbauen, die selben Fehler machen, den selben rotzfrechen Stuss labern und anecken und lachen und weinen.
+Ich würde trotzdem noch einmal genau das Gleiche aufbauen, die gleichen Fehler machen, den selben rotzfrechen Stuss labern und anecken und lachen und weinen.
 Das Leben ist zum lernen da.
 
 Freundschaft.
@@ -516,8 +537,13 @@ Freundschaft.
 
 
 
-[0] Auch wenn man aus den richtigen Gründen das Falsche tut, wurde am Ende das Falsche getan.
-[1] https://annavasof.net/about/
+[0] https://annavasof.net/about/
+[1] https://metalab.at/wiki/%C3%96GS-Tag
 [2] https://docs.google.com/presentation/d/1rOGVadTSuud-cPsGEJMoKDyqKKPD88JLsUQGfihOdQA/  [ORIGINAL SLIDES]
-[3] TODO  [Updated Slides]
-[4] https://docs.google.com/presentation/d/1rOGVadTSuud-cPsGEJMoKDyqKKPD88JLsUQGfihOdQA/edit?slide=id.g38d4efea4c1_0_10#slide=id.g38d4efea4c1_0_10
+[3] Falls ich in diesem Text an irgendeiner stelle falsche Pronomen verwende passiert das nicht mit Absicht. Ich ändere das auch gerne auf Hinweis. (Ausser bei der Stelle vor Qchens Erläuterungen, weil der Text sonst falsch wäre.)
+
+
+
+
+[TODO]  
+- Updated Slides
